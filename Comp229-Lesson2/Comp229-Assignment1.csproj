@@ -79,6 +79,7 @@
     <Content Include="Assets\D6.JPG" />
     <Content Include="Assets\design1.jpg" />
     <Content Include="Assets\desk1.jpg" />
+    <Content Include="Assets\face1.png" />
     <Content Include="Assets\images12.jpg" />
     <Content Include="Assets\light1.jpg" />
     <Content Include="Assets\light2.jpg" />
@@ -88,6 +89,8 @@
     <Content Include="Assets\projects4.jpg" />
     <Content Include="Assets\service1.jpg" />
     <Content Include="Assets\services1.jpg" />
+    <Content Include="Assets\twitter1.png" />
+    <Content Include="Assets\youtube1.png" />
     <Content Include="packages.config" />
     <Content Include="Scripts\jquery-2.2.4.min.map" />
     <Content Include="Contact.Master" />

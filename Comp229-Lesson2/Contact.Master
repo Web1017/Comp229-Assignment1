@@ -1,9 +1,11 @@
 ﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Contact.master.cs" Inherits="Comp229_Lesson2.Contact" %>
 
 <!DOCTYPE html>
+<!--Course: COMP229-006-->
 <!-- Name: Javid Niftaliyev-->
 <!-- Student ID: 300742916 -->
-<!-- Default.aspx file -->
+<!--Assignment1-->
+<!-- Contact.Master file -->
 
 <html>
 <head runat="server">
@@ -67,7 +69,7 @@
     <!-- Footer -->
      <nav class="navbar navbar-clear " style="margin-bottom:0px;margin-left:0px;margin-right:0px;">
         <div class="container">     
-            <h4 style ="color: dimgrey">&copy;  2016 - Example ASP.NET Site - All Rights Reserved</h4>
+            <h4 style ="color: dimgrey">&copy;  2016 - Assignment 1 ASP.NET Site - All Rights Reserved</h4>
                
         </div>
     </nav> 

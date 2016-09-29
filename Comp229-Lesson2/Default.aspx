@@ -1,6 +1,11 @@
 ﻿<%@ Page Title="Home" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="Comp229_Lesson2.Default" %>
 
 <asp:Content ID="Content2" ContentPlaceHolderID="MainContent" runat="server">
+<!--Course: COMP229-006-->
+<!-- Name: Javid Niftaliyev-->
+<!-- Student ID: 300742916 -->
+<!--Assignment1-->
+<!-- Default.aspx file -->
 
 <!--<div class='background-image' style ="background-image:url('../assets/back1.jpg')"> -->
     <div class="container">
