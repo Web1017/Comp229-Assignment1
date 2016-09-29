@@ -5,6 +5,8 @@
 <!-- Name: Javid Niftaliyev-->
 <!-- Student ID: 300742916 -->
 <!--Assignment1-->
+<!--Github:github.com/Web1017/Comp229-Assignment1 -->
+<!--Azure:comp229-assignment1.azurewebsites.net -->
 <!-- Default.aspx file -->
 
 <!--<div class='background-image' style ="background-image:url('../assets/back1.jpg')"> -->
