@@ -1,0 +1,19 @@
+﻿/*Custom CSS GOES HERE*/
+
+
+body {
+    padding-bottom: 120px; 
+    background-image: url('../assets/back1.jpg');
+    clear: both;
+}
+#mydiv{
+  text-align: center;
+  vertical-align: middle;
+}
+
+.center-block {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
