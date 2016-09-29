@@ -21,8 +21,8 @@
                     <label for="ContactNumberTextBox">Contact Number</label>
                     <asp:TextBox TextMode="Phone" CssClass="form-control" ID="ContactNumberTextBox" runat="server" required="true"></asp:TextBox>
                 </div>
-
-               
+                <asp:Button ID="SendButton" CssClass="btn btn-primary btn-lg" runat="server" Text="Send" />
+               <button type ="submit" class ="btn btn-default">Send</button>
 
             </div>
         </div>

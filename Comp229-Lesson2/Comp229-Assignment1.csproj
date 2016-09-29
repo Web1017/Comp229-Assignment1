@@ -77,15 +77,20 @@
     <Content Include="Assets\Capture21.JPG" />
     <Content Include="Assets\D007.JPG" />
     <Content Include="Assets\D6.JPG" />
+    <Content Include="Assets\design1.jpg" />
     <Content Include="Assets\desk1.jpg" />
     <Content Include="Assets\images12.jpg" />
+    <Content Include="Assets\light1.jpg" />
+    <Content Include="Assets\light2.jpg" />
     <Content Include="Assets\mob1.png" />
     <Content Include="Assets\original.jpg" />
     <Content Include="Assets\paperformula.jpg" />
     <Content Include="Assets\projects4.jpg" />
+    <Content Include="Assets\service1.jpg" />
     <Content Include="Assets\services1.jpg" />
     <Content Include="packages.config" />
     <Content Include="Scripts\jquery-2.2.4.min.map" />
+    <Content Include="Contact.Master" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -147,6 +152,13 @@
     </Compile>
     <Compile Include="Contact.aspx.designer.cs">
       <DependentUpon>Contact.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Contact.Master.cs">
+      <DependentUpon>Contact.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Contact.Master.designer.cs">
+      <DependentUpon>Contact.Master</DependentUpon>
     </Compile>
     <Compile Include="Default.aspx.cs">
       <DependentUpon>Default.aspx</DependentUpon>

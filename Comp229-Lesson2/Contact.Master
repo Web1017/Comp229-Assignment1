@@ -1,4 +1,4 @@
-﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="Comp229_Lesson2.Site" %>
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Contact.master.cs" Inherits="Comp229_Lesson2.Contact" %>
 
 <!DOCTYPE html>
 <!-- Name: Javid Niftaliyev-->
